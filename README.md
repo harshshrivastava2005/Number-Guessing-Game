@@ -52,7 +52,7 @@ java GuessNum
    Basic game logic
 # If you like this project, give it a star.
 
-# HARSH SHRIVASTAVA
+ HARSH SHRIVASTAVA
 
-# Linkedin: https://www.linkedin.com/in/harsh-shrivastava-9508032a5/
+ Linkedin: https://www.linkedin.com/in/harsh-shrivastava-9508032a5/
  
